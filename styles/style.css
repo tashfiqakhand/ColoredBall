@@ -1,0 +1,23 @@
+/* This style sheet is taken from  https://www.w3schools.com/howto/howto_js_tabs.asp> */
+
+/* Style the tab */
+
+#circle {
+  height: 250px;
+  left: 50%;
+  margin-top: -125px;
+  margin-left: -125px;
+  border-radius: 50%;
+  position: absolute;
+  top: 50%;
+  width: 250px;
+}
+
+.Red {
+  background-color: red;
+}
+
+.Blue {
+  background-color: blue;
+}
+
