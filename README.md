@@ -1,4 +1,4 @@
-Description
+#Description
 
 ColoredBall is a site that completes the following: 
 
@@ -13,7 +13,7 @@ ColoredBall is a site that completes the following:
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Running the program
+#Running the program
 
 - The program should be run by typing in the URL https://tashfiqakhand.github.io/ColoredBall/ in any browser (each browser is a different user).
 - Once run, a popup will first show indicating all the cookies present (blue ball count, red ball count, color of ball). 
@@ -25,7 +25,7 @@ Running the program
 - To inspect the cookies, you can also toggle the console on the browser and view the application storage's cookies which will show all cookies present. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Folder
+#Folder
 - a style folder that contains style.css for styling the circles
 - a script folder that contains main.js for all javascript functionalities where the core of the work is
 - a index.html file that contains the UI of the page
