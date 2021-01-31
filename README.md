@@ -31,5 +31,7 @@ ColoredBall is a site that completes the following:
 - a index.html file that contains the UI of the page
 
 I hope you enjoy!
+
 Tashfiq Akhand
+
 @tashfiqakhand
