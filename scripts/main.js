@@ -63,7 +63,7 @@ window.onload = function (){ //initial window functionality
 
 
 			if(document.cookie){//starting index counter for Red Ball
-				indexB=document.cookie.indexOf(colorRed);
+				indexR=document.cookie.indexOf(colorRed);
 			}
 			else {
 				indexR = -1;
@@ -168,14 +168,6 @@ function getCookie(cname) {
   }
   return "";
 }
-
-
-
-
-
-
-
-
 
 
 
