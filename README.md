@@ -30,6 +30,6 @@ ColoredBall is a site that completes the following:
 - a script folder that contains main.js for all javascript functionalities where the core of the work is
 - a index.html file that contains the UI of the page
 
-**I hope you like it! 
-**Tashfiq Akhand
+** I hope you like it! 
+** Tashfiq Akhand
 @tashfiqakhand
