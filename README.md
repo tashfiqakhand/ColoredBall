@@ -9,7 +9,7 @@ ColoredBall is a site that completes the following:
 - Code should be written in Javascript and feel free to use a framework for building the page/application. Any cookie functionality should not be abstracted by jQuery or any other module provided by NPM or the like.
 
 
-*The only fault in the program is that for some reason it does not work with Google Chrome, but does work with every other browser. I am still researching this on how to fix it, I resorted to making an https page since Chrome doesnt run cookies on localfiles but even that did not work. I played with chrome settings and still nothing. I will still look into this and try to find a solution, in the meanwhile, I request to view the programs functionality in any other browser.*
+*The only fault in the program is that for some reason it does not work with Google Chrome, but does work with every other browser. I am still researching on how to fix it, I resorted to making an https page since Chrome doesnt run cookies on localfiles but even that did not work. I played with chrome settings and still nothing. I will still look into this and try to find a solution, in the meanwhile, I request to view the programs functionality in any other browser.*
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -17,15 +17,16 @@ ColoredBall is a site that completes the following:
 
 - The program should be run by typing in the URL https://tashfiqakhand.github.io/ColoredBall/ in any browser (each browser is a different user).
 - Once run, a popup will first show indicating all the cookies present (blue ball count, red ball count, color of ball). 
-- After clicking okay on the cookie popup, a white page will show with a colored ball in the middle either being red or blue (50/50 chance) if first user visit, 
+- After clicking okay on the cookie popup, a white page will show with a colored ball in the middle either being color red or blue (50/50 chance) if user's first visit, 
 - If it is not the user's first visit, the page will show the previous color visited and the count of that color will increment in the cookie popup.
-- The page will also show on the top middle a printed message indicating the color of the ball. 
+- The page will also show on the top center a printed message indicating the color of the ball. 
 - To re-run the program with the same user, simply just revisit the page on the same browser by refreshing the page or clicking the link again. 
 - To try another user, simply use another browser or clear the cookies in the settings of the used browser. 
 - To inspect the cookies, you can also toggle the console on the browser and view the application storage's cookies which will show all cookies present. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Folder
+
 - a style folder that contains style.css for styling the circles
 - a script folder that contains main.js for all javascript functionalities where the core of the work is
 - a index.html file that contains the UI of the page
