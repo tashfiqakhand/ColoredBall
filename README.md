@@ -9,9 +9,6 @@ ColoredBall is a site that completes the following:
 - Code should be written in Javascript and feel free to use a framework for building the page/application. Any cookie functionality should not be abstracted by jQuery or any other module provided by NPM or the like.
 
 
-*The only fault in the program is that for some reason it does not work with Google Chrome, but does work with every other browser. I am still researching on how to fix it, I resorted to making an https page since Chrome doesnt run cookies on localfiles but even that did not work. I played with chrome settings and still nothing. I will still look into this and try to find a solution, in the meanwhile, I request to view the programs functionality in any other browser.*
-
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Running the program
 
